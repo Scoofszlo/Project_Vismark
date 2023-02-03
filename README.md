@@ -3,7 +3,7 @@ Welcome to Project Vismark! This project is dedicated for creating clean version
 
 In this repository, I will only upload the download links and notes for past and future projects. This is just for backup purposes. No actual images will be hosted here, and instead you should head to the download links provided below.
 
-For updates, see my [Telegram](https://t.me/project_vismark) channel.
+For updates, see my ~~[Telegram](https://#)~~ channel (no updates will be made for now as I don't have an access to my Telegram account at this moment.
 
 ## Project List
 
