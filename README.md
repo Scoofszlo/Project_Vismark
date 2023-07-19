@@ -1,9 +1,7 @@
 # Project Vismark
 Welcome to Project Vismark! This project is dedicated for creating clean version (and other kinds) of different visuals that are released by different anime. These includes key visuals, character visuals, and more.
 
-In this repository, I will only upload the download links and notes for past and future projects. This is just for backup purposes. No actual images will be hosted here, and instead you should head to the download links provided below.
-
-For updates, see my ~~[Telegram](https://#)~~ channel (no updates will be made for now as I don't have an access to my Telegram account at this moment.
+In this repository, I will only upload the download links and notes for past and future projects. This is just for backup purposes. No actual images will be hosted here, and instead you should head to the download links provided below which will be updated every time.
 
 ## Project List
 
